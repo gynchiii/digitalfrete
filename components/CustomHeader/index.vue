@@ -1,6 +1,6 @@
 <template>
   <div class="w-full h-screen flex bg-gray-200">
-    <Navbar class="fixed top-0 mt-10" />
+    <Navbar class="fixed bg-gray-400 top-0 mt-10" />
     <div
     class="w-full h-screen flex flex-col justify-center items-center"
     style="width: 50%;">

@@ -1,7 +1,7 @@
 <template>
-  <div class="w-full h-full">
+  <div class="w-full bg-gray-200 h-full">
     <CustomHeader />
-    <Carousel />
+    <Carousel class="" />
   </div>
 </template>
 

@@ -1,15 +1,19 @@
 <template>
- <div class="">
-   <carousel-3d>
+  <div class="bg-gray-200">
+   <no-ssr>
+    <carousel-3d>
   <slide :index="0">
     Slide 1 Content
   </slide>
   <slide :index="1">
     Slide 2 Content
   </slide>
+  <slide :index="2">
+    Slide 2 Content
+  </slide>
 </carousel-3d>
-
- </div>
+</no-ssr>
+  </div>
 </template>
 
 <script>
