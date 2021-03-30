@@ -23,6 +23,7 @@
     "@nuxtjs/pwa": "^3.3.5",
     "core-js": "^3.9.1",
     "nuxt": "^2.15.3",
+    "vue-burger-menu": "^2.0.5",
     "vue-carousel-3d": "^1.0.1",
     "vue-slick-carousel": "^1.0.6"
   },
